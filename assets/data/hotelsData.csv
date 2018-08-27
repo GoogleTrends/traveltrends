@@ -1,0 +1,26 @@
+city,rank,holiday,price,holidaySavings,latitude,longitude
+San Francisco,1,Thanksgiving,214,0.5206,37.775049,-122.418719
+Boston,2,Thanksgiving,216,0.5080,42.358423,-71.06024
+Washington DC,3,Thanksgiving,177,0.4761,38.906401,-77.03861
+Denver,4,Thanksgiving,172,0.4432,39.738915,-104.986953
+Key West,5,Thanksgiving,319,0.4259,24.554802,-81.779512
+Venice,6,Thanksgiving,166,0.4095,45.438311,12.306867
+Chicago,7,Thanksgiving,206,0.4062,41.877120,-87.628286
+San Diego,8,Thanksgiving,178,0.3935,32.716508,-117.164603
+Cape Town,9,Thanksgiving,164,0.3888,-33.924338,18.425322
+Lisbon,10,Thanksgiving,127,0.3766,38.721928,-9.141664
+Paris,1,Christmas,182,0.3600,48.856127,2.353582
+London,2,Christmas,226,0.3100,51.506340,-0.126322
+Saint-Gilles,3,Christmas,101,0.2100,50.829970,4.341482
+Las Vegas,4,Christmas,113,0.2000,36.166504,-115.142734
+Cancún,5,Christmas,244,0.1900,21.160395,-86.850608
+Brussels,6,Christmas,118,0.1900,50.849752,4.354446
+San Diego,7,Christmas,157,0.1700,32.716508,-117.164603
+Bangkok,8,Christmas,79,0.1600,13.769914,100.559632
+New York,9,Christmas,290,0.1500,40.727591,-73.988613
+Toronto,10,Christmas,187,0.1300,43.652818,-79.375100
+San Diego,1,New Year's,206,0.2800,32.716508,-117.164603
+Nuremberg,2,New Year's,120,0.2600,49.452145,11.078791
+Arlington,3,New Year's,150,0.1900,38.880143,-77.105590
+Washington DC,4,New Year's,206,0.1600,38.906401,-77.03861
+Anaheim,5,New Year's,249,0.0800,33.835112,-117.907978

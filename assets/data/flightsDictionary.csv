@@ -1,0 +1,15 @@
+"code","name","airport","value"
+"ATL","Atlanta","ATL",1
+"BOS","Boston","BOS",2
+"CHI","Chicago","ORD|MDW",3
+"DAL","Dallas","DFW|DAL",4
+"HNL","Honolulu","HNL",5
+"LAS","Las Vegas","LAS",6
+"LON","London","LHR|LGW|STN|LCY|LTN|SEN",7
+"LAX","Los Angeles","LAX",8
+"MIA","Miami","MIA",9
+"NYC","New York","EWR|JFK|LGA",10
+"ORL","Orlando","MCO",11
+"SFO","San Francisco","SFO",12
+"SEA","Seattle","SEA",13
+"WAS","Washington","IAD|DCA|BWI",14
