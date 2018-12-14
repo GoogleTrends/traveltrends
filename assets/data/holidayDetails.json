@@ -1,0 +1,55 @@
+[{
+  "holiday": "Spring Break",
+  "abb": "s",
+  "dep": "Sat Mar 24",
+  "ret": "Sat Mar 31",
+  "checkin": "2019-03-24",
+  "checkout": "2019-03-31",
+  "defaultCity": "Phoenix",
+  "year": "2019"
+}, {
+  "holiday": "Presidents' Day Weekend",
+  "abb": "p",
+  "dep": "Thu Feb 15",
+  "ret": "Tue Feb 20",
+  "checkin": "2019-02-15",
+  "checkout": "2019-02-20",
+  "defaultCity": "Honolulu",
+  "year": "2019"
+}, {
+  "holiday": "Martin Luther King Jr. Weekend",
+  "abb": "m",
+  "dep": "Thu Jan 11",
+  "ret": "Mon Jan 15",
+  "checkin": "2019-01-11",
+  "checkout": "2019-01-15",
+  "defaultCity": "Tulum",
+  "year": "2019"
+}, {
+  "holiday": "New Years",
+  "abb": "n",
+  "dep": "Tue Dec 26",
+  "ret": "Mon Jan 01",
+  "checkin": "2018-12-29",
+  "checkout": "2019-01-02",
+  "defaultCity": "San Diego",
+  "year": "2018"
+}, {
+  "holiday": "December Holidays",
+  "abb": "x",
+  "dep": "Wed Dec 20",
+  "ret": "Mon Dec 25",
+  "checkin": "2018-12-22",
+  "checkout": "2018-12-26",
+  "defaultCity": "Paris",
+  "year": "2018"
+}, {
+  "holiday": "Thanksgiving",
+  "abb": "t",
+  "dep": "Sun Nov 19",
+  "ret": "Sat Nov 25",
+  "checkin": "2018-11-21",
+  "checkout": "2018-11-25",
+  "defaultCity": "San Francisco",
+  "year": "2018"
+} ]
