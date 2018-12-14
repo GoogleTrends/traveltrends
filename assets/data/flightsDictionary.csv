@@ -1,15 +1,21 @@
 "code","name","airport","value"
-"ATL","Atlanta","ATL",1
-"BOS","Boston","BOS",2
-"CHI","Chicago","ORD|MDW",3
-"DAL","Dallas","DFW|DAL",4
-"HNL","Honolulu","HNL",5
-"LAS","Las Vegas","LAS",6
-"LON","London","LHR|LGW|STN|LCY|LTN|SEN",7
-"LAX","Los Angeles","LAX",8
-"MIA","Miami","MIA",9
-"NYC","New York","EWR|JFK|LGA",10
-"ORL","Orlando","MCO",11
-"SFO","San Francisco","SFO",12
-"SEA","Seattle","SEA",13
-"WAS","Washington","IAD|DCA|BWI",14
+"AMS","Amsterdam","AMS",1
+"ATL","Atlanta","ATL",2
+"AUS","Austin","AUS",3
+"BCN","Barcelona","BCN",4
+"BOS","Boston","BOS",5
+"CHI","Chicago","ORD|MDW",6
+"DAL","Dallas","DFW|DAL",7
+"HNL","Honolulu","HNL",8
+"LAS","Las Vegas","LAS",9
+"LON","London","LHR|LGW|STN|LCY|LTN|SEN",10
+"LAX","Los Angeles","LAX",11
+"MIA","Miami","MIA",12
+"MSY","New Orleans","MSY",13
+"NYC","New York","EWR|JFK|LGA",14
+"ORL","Orlando","MCO",15
+"PAR","Paris","BVA|CDG|ORY",16
+"PHX","Phoenix","PHX",17
+"SFO","San Francisco","SFO",18
+"SEA","Seattle","SEA",19
+"WAS","Washington","IAD|DCA|BWI",20

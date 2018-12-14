@@ -1,26 +1,50 @@
-city,rank,holiday,price,holidaySavings,latitude,longitude
-San Francisco,1,Thanksgiving,214,0.5206,37.775049,-122.418719
-Boston,2,Thanksgiving,216,0.5080,42.358423,-71.06024
-Washington DC,3,Thanksgiving,177,0.4761,38.906401,-77.03861
-Denver,4,Thanksgiving,172,0.4432,39.738915,-104.986953
-Key West,5,Thanksgiving,319,0.4259,24.554802,-81.779512
-Venice,6,Thanksgiving,166,0.4095,45.438311,12.306867
-Chicago,7,Thanksgiving,206,0.4062,41.877120,-87.628286
-San Diego,8,Thanksgiving,178,0.3935,32.716508,-117.164603
-Cape Town,9,Thanksgiving,164,0.3888,-33.924338,18.425322
-Lisbon,10,Thanksgiving,127,0.3766,38.721928,-9.141664
-Paris,1,Christmas,182,0.3600,48.856127,2.353582
-London,2,Christmas,226,0.3100,51.506340,-0.126322
-Saint-Gilles,3,Christmas,101,0.2100,50.829970,4.341482
-Las Vegas,4,Christmas,113,0.2000,36.166504,-115.142734
-Cancún,5,Christmas,244,0.1900,21.160395,-86.850608
-Brussels,6,Christmas,118,0.1900,50.849752,4.354446
-San Diego,7,Christmas,157,0.1700,32.716508,-117.164603
-Bangkok,8,Christmas,79,0.1600,13.769914,100.559632
-New York,9,Christmas,290,0.1500,40.727591,-73.988613
-Toronto,10,Christmas,187,0.1300,43.652818,-79.375100
-San Diego,1,New Year's,206,0.2800,32.716508,-117.164603
-Nuremberg,2,New Year's,120,0.2600,49.452145,11.078791
-Arlington,3,New Year's,150,0.1900,38.880143,-77.105590
-Washington DC,4,New Year's,206,0.1600,38.906401,-77.03861
-Anaheim,5,New Year's,249,0.0800,33.835112,-117.907978
+city,rank,holiday,price,holidaySavings,latitude,longitude,link
+San Francisco,1,Thanksgiving,214,0.5206,37.775049,-122.418719,
+Boston,2,Thanksgiving,216,0.508,42.358423,-71.06024,
+Washington DC,3,Thanksgiving,177,0.4761,38.906401,-77.03861,
+Denver,4,Thanksgiving,172,0.4432,39.738915,-104.986953,
+Key West,5,Thanksgiving,319,0.4259,24.554802,-81.779512,
+Venice,6,Thanksgiving,166,0.4095,45.438311,12.306867,
+Chicago,7,Thanksgiving,206,0.4062,41.87712,-87.628286,
+San Diego,8,Thanksgiving,178,0.3935,32.716508,-117.164603,
+Cape Town,9,Thanksgiving,164,0.3888,-33.924338,18.425322,
+Lisbon,10,Thanksgiving,127,0.3766,38.721928,-9.141664,
+Paris,1,December Holidays,182,0.36,48.856127,2.353582,
+London,2,December Holidays,226,0.31,51.50634,-0.126322,
+Saint-Gilles,3,December Holidays,101,0.21,50.82997,4.341482,
+Las Vegas,4,December Holidays,113,0.2,36.166504,-115.142734,
+Cancún,5,December Holidays,244,0.19,21.160395,-86.850608,
+Brussels,6,December Holidays,118,0.19,50.849752,4.354446,
+San Diego,7,December Holidays,157,0.17,32.716508,-117.164603,
+Bangkok,8,December Holidays,79,0.16,13.769914,100.559632,
+New York,9,December Holidays,290,0.15,40.727591,-73.988613,
+Toronto,10,December Holidays,187,0.13,43.652818,-79.3751,
+San Diego,1,New Years,206,0.28,32.716508,-117.164603,
+Nuremberg,2,New Years,120,0.26,49.452145,11.078791,
+Arlington,3,New Years,150,0.19,38.880143,-77.10559,
+Washington DC,4,New Years,206,0.16,38.906401,-77.03861,
+Anaheim,5,New Years,249,0.08,33.835112,-117.907978,
+Tulum,1,Martin Luther King Jr. Weekend,133,0.3111,20.21141854,-87.46535018,"https://search.google.com/local/places/hotel/categorical?q=tulum+mexico+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Asheville,2,Martin Luther King Jr. Weekend,172,0.3095,35.59505811,-82.55148693,"https://search.google.com/local/places/hotel/categorical?q=asheville+northcarolina+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Jackson,3,Martin Luther King Jr. Weekend,200,0.2975,43.47992909,-110.7624282,"https://search.google.com/local/places/hotel/categorical?q=jackson+wyoming+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+New York,4,Martin Luther King Jr. Weekend,200,0.2487,40.71277534,-74.0059728,"https://search.google.com/local/places/hotel/categorical?q=newyorkcity+newyork+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Mont-Tremblant,5,Martin Luther King Jr. Weekend,179,0.2378,46.1184616,-74.59618525,"https://search.google.com/local/places/hotel/categorical?q=mont-tremblant+canada+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Cancún,6,Martin Luther King Jr. Weekend,164,0.217,21.16190796,-86.85152791,"https://search.google.com/local/places/hotel/categorical?q=cancun+mexico+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Quebec City,7,Martin Luther King Jr. Weekend,116,0.1753,46.81387827,-71.20798086,"https://search.google.com/local/places/hotel/categorical?q=quebeccity+canada+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Madison,8,Martin Luther King Jr. Weekend,127,0.1379,43.07305172,-89.40123018,"https://search.google.com/local/places/hotel/categorical?q=madison+wisconsin+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Gatlinburg,9,Martin Luther King Jr. Weekend,134,0.1377,35.71425898,-83.51016382,"https://search.google.com/local/places/hotel/categorical?q=gatlinburg+tennessee+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+London,10,Martin Luther King Jr. Weekend,119,0.1187,51.50735089,-0.12775828,"https://search.google.com/local/places/hotel/categorical?q=london+england+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Honolulu,1,Presidents' Day Weekend,405,0.2235,21.30694437,-157.8583333,"https://search.google.com/local/places/hotel/categorical?q=honolulu+hawaii+hotels&hotel_dates=2019-02-15,2019-02-18&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Indianapolis,2,Presidents' Day Weekend,160,0.1982,39.76840297,-86.158068,"https://search.google.com/local/places/hotel/categorical?q=indianapolis+indiana+hotels&hotel_dates=2019-02-15,2019-02-18&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Paris,3,Presidents' Day Weekend,178,0.1619,48.856614,2.352221861,"https://search.google.com/local/places/hotel/categorical?q=paris+france+hotels&hotel_dates=2019-02-15,2019-02-18&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Mexico City,4,Presidents' Day Weekend,97,0.1417,19.43260769,-99.133208,"https://search.google.com/local/places/hotel/categorical?q=mexicocity+mexico+hotels&hotel_dates=2019-02-15,2019-02-18&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Phoenix,1,Spring Break,142,0.4768,33.44837712,-112.0740373,"https://search.google.com/local/places/hotel/categorical?q=phoenix+arizona+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Miami,2,Spring Break,244,0.4046,25.76167983,-80.19179023,"https://search.google.com/local/places/hotel/categorical?q=miami+florida+hotels&hotel_dates=2019-04-20,2019-04-28&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Shanghai,3,Spring Break,118,0.3867,31.23039042,121.4737021,"https://search.google.com/local/places/hotel/categorical?q=shanghai+china+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+San Francisco,4,Spring Break,277,0.3221,37.77492951,-122.4194155,"https://search.google.com/local/places/hotel/categorical?q=sanfrancisco+california+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+São Paulo,5,Spring Break,65,0.3058,-23.55051994,-46.63330942,"https://search.google.com/local/places/hotel/categorical?q=saopaulo+brazil+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Tokyo,6,Spring Break,150,0.3009,35.68948753,139.6917064,"https://search.google.com/local/places/hotel/categorical?q=tokyo+japan+hotels&hotel_dates=2019-04-20,2019-04-28&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Punta Cana,7,Spring Break,309,0.2937,18.58201013,-68.4054729,"https://search.google.com/local/places/hotel/categorical?q=puntacana+dominicanrepublic+hotels&hotel_dates=2019-04-20,2019-04-28&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Austin,8,Spring Break,163,0.2809,30.26715296,-97.74306082,"https://search.google.com/local/places/hotel/categorical?q=austin+texas+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Stockholm,9,Spring Break,136,0.2293,59.32932346,18.06858083,"https://search.google.com/local/places/hotel/categorical?q=stockholm+sweden+hotels&hotel_dates=2019-04-13,2019-04-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
+Tampa,10,Spring Break,193,0.1945,27.95057496,-82.45717762,"https://search.google.com/local/places/hotel/categorical?q=tampa+florida+hotels&hotel_dates=2019-04-20,2019-04-28&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
