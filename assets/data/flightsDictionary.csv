@@ -6,16 +6,18 @@
 "BOS","Boston","BOS",5
 "CHI","Chicago","ORD|MDW",6
 "DAL","Dallas","DFW|DAL",7
-"HNL","Honolulu","HNL",8
-"LAS","Las Vegas","LAS",9
-"LON","London","LHR|LGW|STN|LCY|LTN|SEN",10
-"LAX","Los Angeles","LAX",11
-"MIA","Miami","MIA",12
-"MSY","New Orleans","MSY",13
-"NYC","New York","EWR|JFK|LGA",14
-"ORL","Orlando","MCO",15
-"PAR","Paris","BVA|CDG|ORY",16
-"PHX","Phoenix","PHX",17
-"SFO","San Francisco","SFO",18
-"SEA","Seattle","SEA",19
-"WAS","Washington","IAD|DCA|BWI",20
+"DEN","Denver","DEN",8
+"HNL","Honolulu","HNL",9
+"HOU","Houston","IAH",10
+"LAS","Las Vegas","LAS",11
+"LON","London","LHR|LGW|STN|LCY|LTN|SEN",12
+"LAX","Los Angeles","LAX",13
+"MIA","Miami","MIA",14
+"MSY","New Orleans","MSY",15
+"NYC","New York","EWR|JFK|LGA",16
+"ORL","Orlando","MCO",17
+"PAR","Paris","BVA|CDG|ORY",18
+"PHX","Phoenix","PHX",19
+"SFO","San Francisco","SFO",20
+"SEA","Seattle","SEA",21
+"WAS","Washington","IAD|DCA|BWI",22
