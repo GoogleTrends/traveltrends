@@ -1,4 +1,31 @@
 [{
+  "holiday": "Labor Day",
+  "abb": "l",
+  "dep": "Thu Aug 30",
+  "ret": "Tue Sep 04",
+  "checkin": "2019-08-30",
+  "checkout": "2019-09-04",
+  "defaultCity": "Buenos Aires",
+  "year": "2019"
+},{
+  "holiday": "Fourth of July",
+  "abb": "f",
+  "dep": "Tue Jul 03",
+  "ret": "Sat Jul 07",
+  "checkin": "2019-07-03",
+  "checkout": "2019-07-07",
+  "defaultCity": "Chicago",
+  "year": "2019"
+} ,{
+  "holiday": "Memorial Day",
+  "abb": "e",
+  "dep": "Thu May 24",
+  "ret": "Tue May 29",
+  "checkin": "2019-05-24",
+  "checkout": "2019-05-29",
+  "defaultCity": "Da Nang",
+  "year": "2019"
+},{
   "holiday": "Spring Break",
   "abb": "s",
   "dep": "Sat Mar 24",
