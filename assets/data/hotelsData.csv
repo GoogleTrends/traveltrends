@@ -1,29 +1,44 @@
 city,rank,holiday,price,holidaySavings,latitude,longitude,link
-San Francisco,1,Thanksgiving,214,0.5206,37.775049,-122.418719,
-Boston,2,Thanksgiving,216,0.508,42.358423,-71.06024,
-Washington DC,3,Thanksgiving,177,0.4761,38.906401,-77.03861,
-Denver,4,Thanksgiving,172,0.4432,39.738915,-104.986953,
-Key West,5,Thanksgiving,319,0.4259,24.554802,-81.779512,
-Venice,6,Thanksgiving,166,0.4095,45.438311,12.306867,
-Chicago,7,Thanksgiving,206,0.4062,41.87712,-87.628286,
-San Diego,8,Thanksgiving,178,0.3935,32.716508,-117.164603,
-Cape Town,9,Thanksgiving,164,0.3888,-33.924338,18.425322,
-Lisbon,10,Thanksgiving,127,0.3766,38.721928,-9.141664,
-Paris,1,December Holidays,182,0.36,48.856127,2.353582,
-London,2,December Holidays,226,0.31,51.50634,-0.126322,
-Saint-Gilles,3,December Holidays,101,0.21,50.82997,4.341482,
-Las Vegas,4,December Holidays,113,0.2,36.166504,-115.142734,
-Cancún,5,December Holidays,244,0.19,21.160395,-86.850608,
-Brussels,6,December Holidays,118,0.19,50.849752,4.354446,
-San Diego,7,December Holidays,157,0.17,32.716508,-117.164603,
-Bangkok,8,December Holidays,79,0.16,13.769914,100.559632,
-New York,9,December Holidays,290,0.15,40.727591,-73.988613,
-Toronto,10,December Holidays,187,0.13,43.652818,-79.3751,
-San Diego,1,New Years,206,0.28,32.716508,-117.164603,
-Nuremberg,2,New Years,120,0.26,49.452145,11.078791,
-Arlington,3,New Years,150,0.19,38.880143,-77.10559,
-Washington DC,4,New Years,206,0.16,38.906401,-77.03861,
-Anaheim,5,New Years,249,0.08,33.835112,-117.907978,
+Rome,1,Thanksgiving,104,0.35,41.9028,12.4964
+Las Vegas,2,Thanksgiving,121,0.34,36.1699,-115.1398
+Dublin,3,Thanksgiving,150,0.28,53.3498,-6.2603
+Porto,4,Thanksgiving,87,0.27,41.1579,-8.6291
+Barcelona,5,Thanksgiving,142,0.25,41.3851,2.1734
+Tokyo,6,Thanksgiving,201,0.24,35.6804,139.769
+Madrid,7,Thanksgiving,162,0.18,40.4168,-3.7038
+Bali,8,Thanksgiving,73,0.14,-8.3405,115.092
+New York City,9,Thanksgiving,318,0.14,40.7128,-74.006
+Malé,10,Thanksgiving,92,0.13,4.1755,73.5093
+Perissa,1,Canadian Thanksgiving,74,0.63,36.3571,25.4749
+Amsterdam,2,Canadian Thanksgiving,178,0.50,52.368,4.9036
+Pa Tong,3,Canadian Thanksgiving,40,0.45,7.8966,98.3021
+Frankfurt,4,Canadian Thanksgiving,106,0.41,50.1109,8.6821
+Cala d'Or,5,Canadian Thanksgiving,89,0.39,39.3726,3.2291
+Kyiv,6,Canadian Thanksgiving,81,0.38,50.4501,30.5234
+Ibiza,7,Canadian Thanksgiving,158,0.37,39.02,1.4821
+Bogotá,8,Canadian Thanksgiving,59,0.37,4.711,-74.0721
+Reykjavík,9,Canadian Thanksgiving,142,0.37,64.1466,-21.9426
+South Lake Tahoe,10,Canadian Thanksgiving,160,0.35,38.9399,-119.9772
+Lisbon,1,December Holidays,88,0.40,38.7223,-9.1393
+Calgary,2,December Holidays,109,0.36,51.0486,-114.0708
+Madison,3,December Holidays,131,0.34,43.0731,-89.4012
+Karuizawa,4,December Holidays,371,0.33,36.3484,138.597
+Chicago,5,December Holidays,157,0.31,41.8781,-87.6298
+Kyoto,6,December Holidays,248,0.30,35.0116,135.7681
+Melbourne,7,December Holidays,133,0.28,-37.8136,144.9631
+Bali,8,December Holidays,91,0.28,-8.3405,115.092
+Madrid,9,December Holidays,137,0.27,40.4168,-3.7038
+Philadelphia,10,December Holidays,231,0.26,39.9526,-75.1652
+Prague,1,Lunar New Year,98,0.54,50.0755,14.4378
+Hakone,2,Lunar New Year,370,0.53,35.2324,130.1069
+Venice,3,Lunar New Year,125,0.53,45.4408,12.3155
+Yokohama,4,Lunar New Year,139,0.52,35.4437,139.638
+Edinburgh,5,Lunar New Year,120,0.51,55.9533,-3.1883
+Funchal,6,Lunar New Year,125,0.48,32.6669,-16.9241
+Gold Coast,7,Lunar New Year,183,0.47,-28.0167,153.4
+Gramado,8,Lunar New Year,95,0.45,-29.3746,-50.8764
+Ban Tai,9,Lunar New Year,105,0.43,9.7199,100.0472
+Grand Baie,10,Lunar New Year,213,0.41,-20.0089,57.5816,
 Tulum,1,Martin Luther King Jr. Weekend,133,0.3111,20.21141854,-87.46535018,"https://search.google.com/local/places/hotel/categorical?q=tulum+mexico+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
 Asheville,2,Martin Luther King Jr. Weekend,172,0.3095,35.59505811,-82.55148693,"https://search.google.com/local/places/hotel/categorical?q=asheville+northcarolina+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
 Jackson,3,Martin Luther King Jr. Weekend,200,0.2975,43.47992909,-110.7624282,"https://search.google.com/local/places/hotel/categorical?q=jackson+wyoming+hotels&hotel_dates=2019-01-18,2019-01-21&hotel_mode=1&utm_source=marketing&utm_campaign=HD19"
@@ -68,13 +83,13 @@ Boston,7,Memorial Day,328,0.28,42.3601,-71.0589
 Austin,8,Memorial Day,211,0.25,30.2672,-97.7431
 Nashville,9,Memorial Day,244,0.23,36.1627,-86.7816
 Washington DC,10,Memorial Day,236,0.23,38.9072,-77.0369
-Buenos Aires,1,Labor Day,114,0.47,-34.6037,-58.3816
-Ibiza,2,Labor Day,269,0.33,39.02,1.4821
-Chicago,3,Labor Day,204,0.31,41.8781,-87.6298
-Sydney,4,Labor Day,125,0.27,-33.8688,151.2093
-San Francisco,5,Labor Day,285,0.18,37.7749,-122.4194
-Miami,6,Labor Day,190,0.16,25.7617,-80.1918
-Houston,7,Labor Day,139,0.14,29.7604,-95.3698
-Boston,8,Labor Day,337,0.13,42.3601,-71.0589
-Orlando,9,Labor Day,137,0.13,28.5383,-81.3792
-Los Angeles,10,Labor Day,229,0.10,34.0522,-118.2437
+Numazu,1,Labor Day,162,0.66,35.095607,138.86354
+Salou,2,Labor Day,129,0.51,41.077746,1.131593
+Rivazzurra,3,Labor Day,81,0.45,44.037769,12.613805
+Mazatlán,4,Labor Day,91,0.43,23.249415,-106.411142
+Edinburgh,5,Labor Day,161,0.39,55.953252,-3.188267
+Tampa,6,Labor Day,150,0.35,27.950575,-82.457178
+Seattle,7,Labor Day,179,0.33,47.606209,-122.332071
+Chicago,8,Labor Day,186,0.31,41.878114,-87.629798
+Madison,9,Labor Day,162,0.27,43.073052,-89.40123
+Ocean City,10,Labor Day,233,0.27,38.336503,-75.084906
