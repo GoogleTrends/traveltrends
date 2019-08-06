@@ -2,22 +2,47 @@
 "AMS","Amsterdam","AMS",1
 "ATL","Atlanta","ATL",2
 "AUS","Austin","AUS",3
-"BCN","Barcelona","BCN",4
-"BOS","Boston","BOS",5
-"CHI","Chicago","ORD|MDW",6
-"DAL","Dallas","DFW|DAL",7
-"DEN","Denver","DEN",8
-"HNL","Honolulu","HNL",9
-"HOU","Houston","IAH",10
-"LAS","Las Vegas","LAS",11
-"LON","London","LHR|LGW|STN|LCY|LTN|SEN",12
-"LAX","Los Angeles","LAX",13
-"MIA","Miami","MIA",14
-"MSY","New Orleans","MSY",15
-"NYC","New York","EWR|JFK|LGA",16
-"ORL","Orlando","MCO",17
-"PAR","Paris","BVA|CDG|ORY",18
-"PHX","Phoenix","PHX",19
-"SFO","San Francisco","SFO",20
-"SEA","Seattle","SEA",21
-"WAS","Washington","IAD|DCA|BWI",22
+"BKK","Bangkok","BKK|DMK",4
+"BCN","Barcelona","BCN",5
+"BOS","Boston","BOS",6
+"CUN","Cancún","CUN",7
+"CHS","Charleston","CHS",8
+"CHI","Chicago","ORD|MDW",9
+"DAL","Dallas","DFW|DAL",10
+"DEL","Delhi","DEL",11
+"DEN","Denver","DEN",12
+"DUB","Dubai","DWC|DXB|DJH",13
+"HKG","Hong Kong","HKG",14
+"HNL","Honolulu","HNL",15
+"HOU","Houston","IAH",16
+"KUL","Kuala Lumpur","KUL",17
+"LAS","Las Vegas","LAS",18
+"LON","London","LHR|LGW|STN|LCY|LTN|SEN",19
+"LAX","Los Angeles","LAX",20
+"MNL","Manila","MNL",21
+"MEL","Melbourne","MEL|AVV|MEB",22
+"MEX","Mexico City","MEX",23
+"MIA","Miami","MIA",24
+"BOM","Mumbai","BOM",25
+"MYR","Myrtle Beach","MYR",26
+"ACK","Nantucket","ACK",27
+"MSY","New Orleans","MSY",28
+"NYC","New York","EWR|JFK|LGA",29
+"ORL","Orlando","MCO",30
+"PAR","Paris","CDG|ORY|BVA|XHP|XPG",31
+"PHX","Phoenix","PHX",32
+"RIO","Rio de Janeiro","GIG|SDU",33
+"SSA","Salvador","SSA",34
+"SFO","San Francisco","SFO",35
+"SAO","São Paulo","GRU|CGH",36
+"SEA","Seattle","SEA",37
+"SEO","Seoul","ICN|GMP",38
+"SHA","Shanghai","PVG|SHA",39
+"SIN","Singapore","SIN",40
+"SYD","Sydney","SYD",41
+"TAI","Taipei","TPE|TSA",42
+"TIJ","Tijuana","TIJ",43
+"TOK","Tokyo","HND|NRT",44
+"TOR","Toronto","YYZ|YTZ",45
+"YVR","Vancouver","YVR",46
+"WAS","Washington","IAD|DCA|BWI",47

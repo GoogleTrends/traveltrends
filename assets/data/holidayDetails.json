@@ -1,11 +1,47 @@
 [{
+  "holiday": "Lunar New Year",
+  "abb": "u",
+  "dep": "Wed Jan 30",
+  "ret": "Tue Feb 12",
+  "checkin": "2020-01-29",
+  "checkout": "2020-02-12",
+  "defaultCity": "Prague",
+  "year": "2020"
+}, {
+  "holiday": "December Holidays",
+  "abb": "x",
+  "dep": "Fri Dec 21",
+  "ret": "Fri Jan 04",
+  "checkin": "2019-12-21",
+  "checkout": "2020-01-04",
+  "defaultCity": "Lisbon",
+  "year": "2020"
+}, {
+  "holiday": "Thanksgiving",
+  "abb": "t",
+  "dep": "Thu Nov 22",
+  "ret": "Sun Nov 25",
+  "checkin": "2019-11-22",
+  "checkout": "2019-11-25",
+  "defaultCity": "Rome",
+  "year": "2019"
+}, {
+  "holiday": "Canadian Thanksgiving",
+  "abb": "c",
+  "dep": "Thu Oct 11",
+  "ret": "Mon Oct 15",
+  "checkin": "2019-10-11",
+  "checkout": "2019-10-15",
+  "defaultCity": "Perissa",
+  "year": "2019"
+}, {
   "holiday": "Labor Day",
   "abb": "l",
   "dep": "Thu Aug 30",
   "ret": "Tue Sep 04",
   "checkin": "2019-08-30",
   "checkout": "2019-09-04",
-  "defaultCity": "Buenos Aires",
+  "defaultCity": "Numazu",
   "year": "2019"
 },{
   "holiday": "Fourth of July",
@@ -52,31 +88,4 @@
   "checkout": "2019-01-15",
   "defaultCity": "Tulum",
   "year": "2019"
-}, {
-  "holiday": "New Years",
-  "abb": "n",
-  "dep": "Tue Dec 26",
-  "ret": "Mon Jan 01",
-  "checkin": "2018-12-29",
-  "checkout": "2019-01-02",
-  "defaultCity": "San Diego",
-  "year": "2018"
-}, {
-  "holiday": "December Holidays",
-  "abb": "x",
-  "dep": "Wed Dec 20",
-  "ret": "Mon Dec 25",
-  "checkin": "2018-12-22",
-  "checkout": "2018-12-26",
-  "defaultCity": "Paris",
-  "year": "2018"
-}, {
-  "holiday": "Thanksgiving",
-  "abb": "t",
-  "dep": "Sun Nov 19",
-  "ret": "Sat Nov 25",
-  "checkin": "2018-11-21",
-  "checkout": "2018-11-25",
-  "defaultCity": "San Francisco",
-  "year": "2018"
-} ]
+}]
